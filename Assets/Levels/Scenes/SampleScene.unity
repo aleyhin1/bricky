@@ -574,7 +574,7 @@ PrefabInstance:
     - target: {fileID: 5738714464160632949, guid: 9c7953f616a02c44aa66c781cbf59e13,
         type: 3}
       propertyPath: m_Name
-      value: Stick
+      value: Paddle
       objectReference: {fileID: 0}
     - target: {fileID: 6924350220892916202, guid: 9c7953f616a02c44aa66c781cbf59e13,
         type: 3}
@@ -584,7 +584,7 @@ PrefabInstance:
     - target: {fileID: 6924350220892916202, guid: 9c7953f616a02c44aa66c781cbf59e13,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4
+      value: -5
       objectReference: {fileID: 0}
     - target: {fileID: 6924350220892916202, guid: 9c7953f616a02c44aa66c781cbf59e13,
         type: 3}
